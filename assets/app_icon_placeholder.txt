@@ -1,0 +1,14 @@
+PLACEHOLDER FILE
+================
+
+Please replace this file with your actual app_icon.png
+
+Your anime character image should be:
+- 1024x1024 pixels
+- PNG format
+- Named exactly: app_icon.png
+- Placed in this assets folder
+
+Once you add the real image, delete this placeholder file.
+
+

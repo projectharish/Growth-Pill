@@ -1,0 +1,26 @@
+APP ICON SETUP INSTRUCTIONS
+============================
+
+To add your anime character as the app icon:
+
+1. Save your anime character image as "app_icon.png" in this assets folder
+2. The image should be 1024x1024 pixels for best quality
+3. Make sure the background is transparent or black (as shown in your image)
+4. The character should be centered and clearly visible
+
+Your anime character description:
+- Young man with dark skin and dark hair
+- Looking over his left shoulder in profile
+- Wearing a dark blue/black t-shirt
+- Clean anime art style with black background
+- Medium-dark brown skin tone
+- Dark charcoal gray/black hair and beard
+- Light brown/amber eyes with white highlight
+
+Once you've added the app_icon.png file, run:
+flutter pub get
+flutter pub run flutter_launcher_icons:main
+
+This will generate all the necessary icon sizes for Android and iOS.
+
+
